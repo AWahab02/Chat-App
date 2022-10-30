@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+A live chatting Mobile application created in Flutter using Firebase and Firestore for both Android and iOS devices.
 
 ## Getting Started
 
