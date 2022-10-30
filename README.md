@@ -6,6 +6,7 @@ A live chatting Mobile application created in Flutter using Firebase and Firesto
 
 ![Screenshot_20221030_213852](https://user-images.githubusercontent.com/114500718/198891307-5bcc5204-ebee-4d7c-a8fb-fa1404021440.png)
 
+<img src = "https://user-images.githubusercontent.com/114500718/198891307-5bcc5204-ebee-4d7c-a8fb-fa1404021440.png" width = 20>
 
 ## Login Page
 
