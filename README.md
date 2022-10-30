@@ -41,7 +41,8 @@ A live chatting Mobile application created in Flutter using Firebase and Firesto
 
 
 ## Chat Page
--This is the page where the main function of chatting takes place:
+- This is the page where the main function of chatting takes place.
+- Messages sent by the user is shown in orange, messages sent by all other members are shown in purple:
 <img src = "https://user-images.githubusercontent.com/114500718/198891832-89ac4d0b-d91e-4417-986f-69e221cdc87c.png" width = 300>
 
 
