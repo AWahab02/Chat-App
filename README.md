@@ -3,7 +3,7 @@
 A live chatting Mobile application created in Flutter using Firebase and Firestore for both Android and iOS devices.
 
 ## Registration Page
--Page for registration of new users
+- Page for registration of new users
 <img src = "https://user-images.githubusercontent.com/114500718/198891307-5bcc5204-ebee-4d7c-a8fb-fa1404021440.png" width = 300>
 
 ## Login Page
